@@ -1,0 +1,17 @@
+{
+  "name": "MBCX Reports App",
+  "version": "0.0.0",
+  "description": "displays MBCX data",
+  "main": "server.js",
+  "repository": "",
+  "author": "Adam Lefevre <Adamtlefevre@gmail.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "bcrypt": "^1.0.3",
+    "body-parser": "^1.18.2",
+    "create-react-app": "^1.5.1",
+    "express": "^3.2.6",
+    "pg-promise": "^7.4.1",
+    "react-router-dom": "^4.2.2"
+  }
+}
